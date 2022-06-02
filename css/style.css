@@ -1,0 +1,15 @@
+.imagem-carrosel {
+    object-fit: cover;
+    height: 600px;
+}
+.imagem-carrosel-tres {
+    object-fit: cover;
+    object-position: 0 20%;    
+    object-position: ex;
+    height: 600px;
+}
+.imagem-carrosel-quatro {
+    object-fit: cover;
+    object-position: 0 20%;    
+    height: 600px;
+}
