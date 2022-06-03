@@ -14,6 +14,10 @@
     height: 600px;
 }
 
-.titulo-imagem {
+.titulo-font {
     font-family: 'Delius', cursive;
+}
+
+.cor-especifica {
+    color: purple;
 }
