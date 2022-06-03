@@ -13,3 +13,7 @@
     object-position: 0 20%;    
     height: 600px;
 }
+
+.titulo-imagem {
+    font-family: 'Delius', cursive;
+}
