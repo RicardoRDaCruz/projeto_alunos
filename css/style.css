@@ -21,3 +21,12 @@
 .cor-especifica {
     color: purple;
 }
+
+.botao-cor-especifica {
+    background-color: purple;
+    color: white;
+}
+
+.borda-cor-especifica {
+    border-color: purple;
+}
